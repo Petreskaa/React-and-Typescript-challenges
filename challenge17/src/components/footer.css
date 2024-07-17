@@ -1,0 +1,63 @@
+.share-icons .fab {
+    color: white;
+  }
+  
+  .share-icons a {
+    padding: 10px 15px;
+    background-color: orange;
+    transition: all .15s ease;
+    display: inline-block;
+    color: white;
+  }
+  
+  .share-icons a:not(:last-child) {
+    margin-right: 10px;
+  }
+  
+  .share-icons a:hover {
+    background-color: grey;
+    color: white;
+  }
+  
+  .footer {
+    background-color: #f8f8f8;
+    padding: 60px 0;
+  }
+  
+  .footer .col-md-3:not(:first-child) {
+    border-left: 1px solid lightgrey;
+  }
+  
+  .footer h2 {
+    margin-bottom: 20px;
+    margin-top: 0;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  .footer ul {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+  }
+  
+  .footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer ul li a {
+    color: black;
+    transition: all .15s ease;
+    font-size: 16px;
+  }
+  
+  .footer ul li a:hover {
+    color: orange;
+    text-decoration: none;
+  }
+  .container{
+    padding-right: 15px;
+	padding-right: 15px;
+	margin-left: auto;
+	margin-right: auto;
+  }
